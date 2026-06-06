@@ -1,92 +1,149 @@
-# Hi 👋, I'm Kartik Kaira
+# <h1 align="center">Hi 👋, I'm Kartik Kaira</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;DSA+Enthusiast;Cyber+Security+Learner;Full+Stack+Developer" alt="Typing SVG" />
+<h3 align="center">🚀 B.Tech CSE Student | Java Developer | DSA Enthusiast | MERN Stack Learner </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Data+Structures+%26+Algorithms;Cyber+Security+Learner;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science Engineering Student
 
-💻 Currently learning:
+💡 Passionate about:
 
+* Java Development
 * Data Structures & Algorithms
+* Cyber Security
 * Operating Systems
 * Computer Networks
-* Cyber Security
-* MERN Stack
+* Full Stack Development
 
-🌱 Goal: Become a Software Development Engineer
+🌱 Currently Learning:
+
+* Advanced Java
+* System Design
+* MERN Stack
+* Cyber Security Fundamentals
+
+🎯 Goal:
+
+* Become a Software Development Engineer
+* Build Scalable Websites
 
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-[Portfolio](YOUR_PORTFOLIO_URL)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
 
-[Email](mailto:YOUR_EMAIL)
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,mongodb,mysql,git,github,linux,vscode)](https://skillicons.dev)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,mongodb,mysql,git,github,linux,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Core Subjects
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+✔ Data Structures & Algorithms
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+✔ Operating Systems
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+✔ Computer Networks
 
----
+✔ DBMS
 
-## 🏆 GitHub Trophies
+✔ Object-Oriented Programming
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+✔ Cyber Security
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 Java DSA Repository
+### 📌 Student Management System
 
-Collection of DSA problems and solutions.
+Java-based management application.
 
-### 🔐 Cyber Security Projects
-
-Security-related tools and experiments.
-
-### 💻 Operating System Lab
-
-OS algorithms and concepts implementation.
-
-### 🌐 Computer Networks Lab
-
-Networking programs and simulations.
-
-### 🎯 Portfolio Website
+### 📌 Portfolio Website
 
 Personal portfolio showcasing projects and skills.
 
+
+### 📌 DSA Repository
+
+Collection of coding questions and solutions.
+
 ---
 
-## 👀 Profile Views
+## 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-### Thanks for visiting my profile! ⭐
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+```java
+while(true){
+    Learn();
+    Build();
+    PracticeDSA();
+    Improve();
+}
+```
+
+---
+
+## 👀 Profile Visitors
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### ⭐ "Consistency Beats Talent When Talent Doesn't Work Consistently."
 
