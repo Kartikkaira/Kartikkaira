@@ -37,7 +37,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kartik-kaira-6531a5285/">
+<a href="https://www.linkedin.com/in/kartik-kaira/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
