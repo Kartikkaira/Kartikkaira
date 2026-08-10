@@ -26,7 +26,6 @@
 * Advanced Java
 * System Design
 * MERN Stack
-* Cyber Security Fundamentals
 
 🎯 Goal:
 
@@ -38,11 +37,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/kartik-kaira-6531a5285/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kairakartik30082005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -73,15 +72,13 @@
 
 ✔ Object-Oriented Programming
 
-✔ Cyber Security
-
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Student Management System
+### 📌 AI SEO Ranking Analysis and Monitoring
 
-Java-based management application.
+MERN-based .
 
 ### 📌 Portfolio Website
 
